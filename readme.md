@@ -1,7 +1,7 @@
 # Language Processing Application
 
-  This repository contains two Python scripts \n
-`lang_app.py` & `chainlit_app.py`,\n
+  This repository contains two Python scripts  
+`lang_app.py` & `chainlit_app.py`,  
 which are used for language processing and document retrieval.
 
 
