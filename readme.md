@@ -2,6 +2,12 @@
 
 This repository contains two Python scripts, `lang_app.py` and `chainlit_app.py`, which are used for language processing and document retrieval.
 
+![Project Image](data/DALL·E 2023-07-25 16.59.15.png)
+
+## Important Note
+
+Before starting, it's recommended to create a new environment (like using Conda) to avoid any package conflicts and to keep your workspace clean.
+
 ## lang_app.py
 
 This script is a language processing application that uses OpenAI and Pinecone to process a PDF file and create a Pinecone index from the documents. It sets up a retrieval question-answering chain with the Pinecone index and provides a function to handle user input and generate responses.
