@@ -61,8 +61,8 @@ For `lang_app.py`, the application will prompt you to ask a question about the c
 For `chainlit_app.py`, you can start a chat and upload a file. The application will process the file and you can ask questions about the content of the file.
 
 
-# Please note that you may need to adjust the paths and environment variables according to your setup.
+## Please note that you may need to adjust the paths and environment variables according to your setup.
 
 ---
 
-# For more information about the Chainlit library used in this project, please visit [Chainlit's official documentation](https://docs.chainlit.io/overview) or their [GitHub repository](https://github.com/chainlit/chainlit).
+## For more information about the Chainlit library used in this project, please visit [Chainlit's official documentation](https://docs.chainlit.io/overview) or their [GitHub repository](https://github.com/chainlit/chainlit).
