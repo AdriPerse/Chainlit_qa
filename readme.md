@@ -1,6 +1,9 @@
 # Language Processing Application
-
-This repository contains two Python scripts, `lang_app.py` and `chainlit_app.py`, which are used for language processing and document retrieval.
+<p align="center">
+  This repository contains two Python scripts
+`lang_app.py` & `chainlit_app.py`,
+which are used for language processing and document retrieval.
+</p>
 
 ![Project Image](./data/DALL·E.png)
 
