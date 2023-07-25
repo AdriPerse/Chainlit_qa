@@ -2,7 +2,7 @@
 
 This repository contains two Python scripts, `lang_app.py` and `chainlit_app.py`, which are used for language processing and document retrieval.
 
-![Project Image](data/DALL·E 2023-07-25 16.59.15.png)
+![Project Image](./data/DALL·E.png)
 
 ## Important Note
 
